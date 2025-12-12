@@ -133,16 +133,6 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 ## 🤝 Contributions
 Contributions, corrections, and enhancements are welcome as the model continues to develop and refine.
 
----
-
-## 🧭 Roadmap
-- Add full descriptions for each core model  
-- Add SVG diagram versions  
-- Expand typology bridges  
-- Publish applied guides  
-- Develop interactive visual tools (future)  
-
----
 
 ## ✨ Overview
 Human cognition is dynamic.  
