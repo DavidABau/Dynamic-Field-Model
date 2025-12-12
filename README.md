@@ -112,7 +112,24 @@ Its aim is clarity, coherence, and accessibility.
 ---
 
 ## 📄 License
-Open-source license (MIT or similar) to be added.
+This project is licensed under the **Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)** license.
+
+This means:
+
+- ✔ You may **share** the material in any medium or format  
+- ✔ You must **credit the original author**  
+- ✖ You may **not** use the material for commercial purposes  
+- ✖ You may **not** modify, remix, transform, or build upon the material  
+
+The purpose of this license is to:
+
+- Preserve coherence and integrity of the Dynamic Field Model  
+- Prevent harmful or misleading derivative versions  
+- Ensure the framework remains accessible and free for personal and educational use  
+- Prevent commercial exploitation or repurposing without permission  
+
+For full legal terms, see the LICENSE file or visit:  
+https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ---
 
