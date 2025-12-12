@@ -35,23 +35,10 @@ Each one reflects a coherent cognitive pattern with predictable strengths, stres
 
 # 🔄 The Archetype Wheel Diagram (ASCII Version)
 
-This simple ASCII diagram represents the 12-phase structure in circular form:
-```
-            [1] Seer
-               |
-  [12] Sage ---+--- Mentor [2]
-               |
-[11] Analyst ---- Center ---- Healer [3]
-|
-[10] Architect ---+--- Nurturer [4]
-|
-[9] Builder ---+--- Advocate [5]
-|
-[8] Rebel
-|
-[7] Creator
+This simple diagram represents the 12-phase structure in circular form:
 
-```
+[Archetype Wheel](diagrams/archetype_wheel_v1.png)
+
 
 This diagram expresses:
 
