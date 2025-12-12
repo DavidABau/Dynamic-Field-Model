@@ -101,4 +101,4 @@ They represent deeper theoretical work that will remain private for now.
 
 ---
 
-_Last updated: (today’s date)_
+_Last updated: (Saturday December 13th 2025)_
