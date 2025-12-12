@@ -93,9 +93,6 @@ typology-bridges/
 applications/
 glossary/
 
-yaml
-Copy code
-
 Each directory contains detailed explanations, diagrams, and supporting materials.
 
 ---
