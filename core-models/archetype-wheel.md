@@ -37,8 +37,7 @@ Each one reflects a coherent cognitive pattern with predictable strengths, stres
 
 This simple diagram represents the 12-phase structure in circular form:
 
-[Archetype Wheel](diagrams/archetype_wheel_v1.png)
-
+[Archetype Wheel](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/diagrams/archetype_wheel_v1.png)
 
 This diagram expresses:
 
