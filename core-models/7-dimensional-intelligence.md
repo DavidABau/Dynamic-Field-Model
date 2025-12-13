@@ -172,3 +172,5 @@ It is a foundational component of the Dynamic Field Model and directly informs:
 - self-regulation strategies  
 - AI-human interface design
 
+![Seven-Dimensional Intelligence](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/diagrams/seven_dimensions.svg)
+
