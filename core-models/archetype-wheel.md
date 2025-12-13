@@ -33,7 +33,7 @@ Each one reflects a coherent cognitive pattern with predictable strengths, stres
 
 ---
 
-# 🔄 The Archetype Wheel Diagram (ASCII Version)
+# 🔄 The Archetype Wheel Diagram (PNG Version)
 
 This simple diagram represents the 12-phase structure in circular form:
 
