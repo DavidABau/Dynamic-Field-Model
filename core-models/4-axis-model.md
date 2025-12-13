@@ -140,3 +140,7 @@ The Four-Axis Cognitive Model describes the fundamental cognitive polarities tha
 
 These axes provide the structural logic from which the entire Dynamic Field Model arises.
 
+[Four-Axis Cognitive Model](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/diagrams/four_axes.svg)
+
+
+
