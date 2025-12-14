@@ -40,12 +40,3 @@ When the field stabilises:
 Only a subset of modes remain available until the wave completes.
 
 ---
-
-If you'd like, I can also create:
-
-- **A companion diagram** showing the 12 archetypes in stress trajectories  
-- **A “relief patterns” table** showing what *reduces* stress for each archetype  
-- **A version of this table optimised for README or Quickstart**  
-- **A PDF-ready formatted version**
-
-Just say the word.
