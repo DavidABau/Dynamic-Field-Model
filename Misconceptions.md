@@ -2,6 +2,7 @@
 
 The Dynamic Field Model (DFM) is often compared to other systems or traditions due to superficial similarities in language or structure.
 This section clarifies what DFM is not, to prevent confusion or misinterpretation.
+
 ❌ “Is DFM based on astrology, zodiac signs, or symbolic systems?”
 
 No.
@@ -10,6 +11,7 @@ Many human traditions also use 12-part structures because 12 divides cycles and 
 The resemblance is coincidental.
 
 DFM contains no symbolic assignments, no planetary associations, and no esoteric mappings.
+
 ❌ “Is DFM a spiritual or metaphysical system?”
 
 No.
@@ -18,6 +20,7 @@ It describes how thinking patterns shift, stabilize, and interact.
 It does not make claims about the nature of consciousness, spiritual states, or universal metaphysics.
 
 Any deeper philosophical explorations remain outside the scope of the public framework.
+
 ❌ “Does DFM describe personality types or classify people?”
 
 No.
