@@ -34,12 +34,14 @@ DFM describes:
     moment-to-moment shifts
 
 It is non-diagnostic and non-evaluative.
+
 ❌ “Can DFM be used to diagnose psychological conditions?”
 
 Absolutely not.
 DFM is not a clinical tool.
 It does not describe disorders, pathology, symptoms, or mental health conditions.
 It should never be used as a psychological assessment.
+
 ❌ “Does DFM tell people who they are?”
 
 No.
@@ -53,6 +55,7 @@ It supports:
     healthier communication
 
 DFM describes process, not identity.
+
 ❌ “Is DFM meant to replace other personality systems?”
 
 No.
@@ -62,6 +65,7 @@ Typology systems describe long-term tendencies.
 DFM describes real-time cognitive movement.
 
 Both can coexist without conflict.
+
 ❌ “Is there an approved way to read or ‘use’ the archetypes?”
 
 No.
@@ -69,6 +73,7 @@ Archetypes in DFM do not assign fixed roles or hidden meanings.
 They describe temporary configurations of cognitive axes.
 
 There is no correct or incorrect archetype to “be.”
+
 ❌ “Does the model imply moral ranking or ‘higher’ vs ‘lower’ states?”
 
 No.
@@ -82,11 +87,13 @@ The model avoids:
     prescriptive behaviour standards
 
 It is descriptive and educational only.
+
 ❌ “Does the model imply the existence of a universal field of consciousness?”
 
 No.
 DFM uses the term “field” as a metaphor for the space of cognitive possibilities.
 It is not a metaphysical claim and does not imply physical or mystical fields.
+
 ❌ “Can this model be used to determine compatibility between people?”
 
 No.
