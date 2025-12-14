@@ -72,3 +72,5 @@ Only a subset of modes remain available until the wave completes.
   - restoring wave amplitude  
 
 ---
+
+![Archetype stress relief pattern](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/diagrams/archetype_stress_relief_map.svg)
