@@ -182,3 +182,4 @@ The current focus is **stability, clarity, and restraint**.
 The model is already structurally complete.  
 Future work is about making it *understandable*, not making it bigger.
 
+Last updated December 15th 2025
