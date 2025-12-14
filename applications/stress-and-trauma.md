@@ -196,4 +196,6 @@ and intelligence dimensions.
 This framework provides a clear, structural understanding of stress and trauma
 using only the language and internal logic of the Dynamic Field Model.
 
+[Also see: stress and relief patterns](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/applications/archetype-stress-relief-patterns.md)
+
 
