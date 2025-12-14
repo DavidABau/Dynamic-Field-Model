@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+<marker id="arrow-stress" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="red" />
+</marker>
+<marker id="arrow-relief" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M 0 0 L 10 5 L 0 10 z" fill="green" />
+</marker>
+</defs>
+<circle cx="450" cy="450" r="260" fill="none" stroke="black" stroke-width="3"/>
+<text x="450" y="70" font-family="sans-serif" font-size="26" text-anchor="middle">Archetype Stress &amp; Relief Trajectories</text>
+<text x="450.0" y="135.0" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Seer</text>
+<line x1="450.0" y1="200.0" x2="450.0" y2="140.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="450.0" y1="185.0" x2="450.0" y2="240.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="607.5" y="177.20199780790182" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Mentor</text>
+<line x1="575.0" y1="233.49364905389035" x2="605.0" y2="181.53212482682403" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="582.5" y1="220.50326799712377" x2="555.0" y2="268.1346652052679" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="722.7980021920982" y="292.5" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Healer</text>
+<line x1="666.5063509461097" y1="325.0" x2="718.467875173176" y2="295.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="679.4967320028762" y1="317.5" x2="631.8653347947321" y2="345.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="765.0" y="450.0" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Nurturer</text>
+<line x1="700.0" y1="450.0" x2="760.0" y2="450.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="715.0" y1="450.0" x2="660.0" y2="450.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="722.7980021920982" y="607.5" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Advocate</text>
+<line x1="666.5063509461097" y1="575.0" x2="718.467875173176" y2="605.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="679.4967320028762" y1="582.5" x2="631.8653347947321" y2="555.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="607.5" y="722.7980021920982" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Rebel</text>
+<line x1="575.0" y1="666.5063509461097" x2="605.0" y2="718.467875173176" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="582.5" y1="679.4967320028762" x2="555.0" y2="631.8653347947321" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="450.0" y="765.0" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Creator</text>
+<line x1="450.0" y1="700.0" x2="450.0" y2="760.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="450.0" y1="715.0" x2="450.0" y2="660.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="292.50000000000006" y="722.7980021920982" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Driver</text>
+<line x1="325.00000000000006" y1="666.5063509461097" x2="295.00000000000006" y2="718.467875173176" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="317.50000000000006" y1="679.4967320028762" x2="345.00000000000006" y2="631.8653347947321" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="177.20199780790182" y="607.5" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Builder</text>
+<line x1="233.49364905389032" y1="575.0" x2="181.53212482682397" y2="605.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="220.50326799712374" y1="582.5" x2="268.1346652052679" y2="555.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="135.0" y="450.00000000000006" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Architect</text>
+<line x1="200.0" y1="450.00000000000006" x2="140.0" y2="450.00000000000006" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="185.0" y1="450.00000000000006" x2="240.0" y2="450.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="177.20199780790182" y="292.5" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Analyst</text>
+<line x1="233.49364905389035" y1="325.0" x2="181.53212482682403" y2="295.0" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="220.50326799712377" y1="317.5" x2="268.1346652052679" y2="345.0" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="292.4999999999999" y="177.20199780790193" font-family="sans-serif" font-size="18" text-anchor="middle" dominant-baseline="middle">Sage</text>
+<line x1="324.9999999999999" y1="233.4936490538904" x2="294.9999999999999" y2="181.5321248268241" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<line x1="317.4999999999999" y1="220.50326799712383" x2="344.9999999999999" y2="268.13466520526794" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<g>
+<line x1="140" y1="820" x2="200" y2="820" stroke="red" stroke-width="3" marker-end="url(#arrow-stress)"/>
+<text x="210" y="825" font-family="sans-serif" font-size="18" text-anchor="start">Stress trajectory (outward distortion)</text>
+<line x1="140" y1="850" x2="200" y2="850" stroke="green" stroke-width="2" stroke-dasharray="4,4" marker-end="url(#arrow-relief)"/>
+<text x="210" y="855" font-family="sans-serif" font-size="18" text-anchor="start">Relief trajectory (returning to coherence)</text>
+</g>
+</svg>
