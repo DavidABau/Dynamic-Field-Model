@@ -40,3 +40,35 @@ When the field stabilises:
 Only a subset of modes remain available until the wave completes.
 
 ---
+
+# Relief Patterns by Archetype  
+(DFM — How Each Archetype Regains Coherence)
+
+| Archetype | Relief Direction | Axis Rebalance | What Helps the Field Reopen |
+|-----------|------------------|----------------|------------------------------|
+| **Seer** | Grounding in present time | Reality ↑ Vision ↓ | Sensory contact, concrete tasks, limiting prediction loops |
+| **Mentor** | Allowing others autonomy | Structure ↑ Care ↓ | Stepping back, trusting others’ process, reducing obligation load |
+| **Healer** | Re-establishing emotional boundaries | Logic ↑ Value ↓ | Naming own feelings, separating self from others’ states |
+| **Nurturer** | Redistributing care | Care ↓ Action ↑ | Delegation, rest, small actionable steps that restore agency |
+| **Advocate** | Nuancing perspective | Reality ↑ Value ↓ | Slowing moral urgency, exploring grey areas, rechecking facts |
+| **Rebel** | Stabilising novelty | Structure ↑ Innovation ↓ | Creating light structure, reducing impulsivity triggers |
+| **Creator** | Converging ideas | Reality ↑ Innovation ↓ | Choosing one idea, setting constraints, completing a small step |
+| **Driver** | Softening force | Care ↑ Action ↓ | Pausing, checking impact on others, reconnecting with intention |
+| **Builder** | Expanding perspective | Vision ↑ Structure ↓ | Taking breaks, revisiting the “why,” tolerating imperfection |
+| **Architect** | Allowing uncertainty | Innovation ↑ Structure ↓ | Letting others contribute, embracing flexible solutions |
+| **Analyst** | Reconnecting to feeling | Value ↑ Logic ↓ | Naming emotions, engaging embodiment, reducing intellectual loops |
+| **Sage** | Returning to lived experience | Action ↑ Vision ↓ | Doing something small and concrete, reconnecting with reality |
+
+---
+
+# Summary of Relief Patterns  
+- Relief = **reverse vector of contraction**  
+- Each archetype decompresses by *activating the opposite pole* of its distortion  
+- Relief almost always involves:  
+  - grounding  
+  - sensory contact  
+  - reducing signal load  
+  - widening access to suppressed axes  
+  - restoring wave amplitude  
+
+---
