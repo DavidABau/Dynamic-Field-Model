@@ -9,6 +9,17 @@ Archetype Wheel, and the Seven Dimensions of Intelligence.
 Development is not about becoming a different type of person.  
 It is about gaining broader access to the cognitive field.
 
+### On Scale
+
+The Dynamic Field Model is intentionally scale-agnostic.
+While many examples focus on individual cognition, the same field dynamics
+(axes, waves, and archetypal configurations) can be observed at interpersonal,
+group, organisational, and human–AI interaction levels.
+
+The model does not assume identical behaviour across scales—only that similar
+structural patterns may emerge under similar constraints.
+
+
 ---
 
 # 🧭 Core Developmental Principles
