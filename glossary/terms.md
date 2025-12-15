@@ -100,5 +100,4 @@ For fuller explanations, see `definitions.md`.
 
 ---
 
-For detailed explanations of each term, see:  
-`definitions.md`
+[For detailed explanations of each term, see: Definitions](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/glossary/definitions.md)
