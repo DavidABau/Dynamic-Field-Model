@@ -30,12 +30,12 @@ No.
 Unlike typologies (e.g., MBTI, Enneagram, Big Five), DFM does not assign categories, predict behaviours, or identify identity-based traits.
 
 DFM describes:
-
+```
 cognitive modes
 axis activation patterns
 wave dynamics
 moment-to-moment shifts
-
+```
 It is non-diagnostic and non-evaluative.
 
 
