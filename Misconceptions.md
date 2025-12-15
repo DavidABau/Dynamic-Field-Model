@@ -3,7 +3,6 @@
 The Dynamic Field Model (DFM) is often compared to other systems or traditions due to superficial similarities in language or structure.
 This section clarifies what DFM is not, to prevent confusion or misinterpretation.
 
-```
 
 ##❌ “Is DFM based on astrology, zodiac signs, or symbolic systems?”
 
@@ -14,7 +13,6 @@ The resemblance is coincidental.
 
 DFM contains no symbolic assignments, no planetary associations, and no esoteric mappings.
 
-```
 
 ##❌ “Is DFM a spiritual or metaphysical system?”
 
@@ -25,7 +23,6 @@ It does not make claims about the nature of consciousness, spiritual states, or 
 
 Any deeper philosophical explorations remain outside the scope of the public framework.
 
-```
 
 ##❌ “Does DFM describe personality types or classify people?”
 
@@ -41,7 +38,6 @@ DFM describes:
 
 It is non-diagnostic and non-evaluative.
 
-```
 
 ##❌ “Can DFM be used to diagnose psychological conditions?”
 
@@ -50,7 +46,6 @@ DFM is not a clinical tool.
 It does not describe disorders, pathology, symptoms, or mental health conditions.
 It should never be used as a psychological assessment.
 
-```
 
 ##❌ “Does DFM tell people who they are?”
 
@@ -66,7 +61,6 @@ It supports:
 
 DFM describes process, not identity.
 
-```
 
 ##❌ “Is DFM meant to replace other personality systems?”
 
@@ -78,7 +72,6 @@ DFM describes real-time cognitive movement.
 
 Both can coexist without conflict.
 
-```
 
 ##❌ “Is there an approved way to read or ‘use’ the archetypes?”
 
@@ -88,7 +81,6 @@ They describe temporary configurations of cognitive axes.
 
 There is no correct or incorrect archetype to “be.”
 
-```
 
 ##❌ “Does the model imply moral ranking or ‘higher’ vs ‘lower’ states?”
 
@@ -104,7 +96,6 @@ The model avoids:
 
 It is descriptive and educational only.
 
-```
 
 ##❌ “Does the model imply the existence of a universal field of consciousness?”
 
@@ -112,7 +103,6 @@ No.
 DFM uses the term “field” as a metaphor for the space of cognitive possibilities.
 It is not a metaphysical claim and does not imply physical or mystical fields.
 
-```
 
 ##❌ “Can this model be used to determine compatibility between people?”
 
@@ -121,4 +111,3 @@ DFM is not a relational typing system and does not produce compatibility profile
 
 It can help people understand communication patterns, but not predict relationships.
 
-```
