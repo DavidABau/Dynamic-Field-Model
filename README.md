@@ -2,6 +2,8 @@
 
 A multidimensional systems framework for understanding human cognition, motivation, and behaviour.
 
+“This project is not a scientific research programme. It is a contextual framework designed to help people interpret complex experiences, models, and technologies without loss of agency.”
+
 The Dynamic Field Model (DFM) describes how human experience emerges from the interaction of underlying cognitive fields.  
 Rather than viewing personality, intelligence, or behaviour as fixed traits, DFM models them as **dynamic patterns**, shaped by context, development, and internal-external feedback loops.
 
