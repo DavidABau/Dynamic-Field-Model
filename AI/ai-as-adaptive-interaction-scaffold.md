@@ -7,6 +7,7 @@ This section describes how **Dynamic Field Model (DFM)–style models** can be u
 The goal is not smarter AI in a human sense, but **safer, more coherent interaction** that preserves human agency.
 
 For readers interested in implementation, see “Translating the Dynamic Field Model into Mathematical Form” for a state-space / stability framing of these ideas.
+
 [Go here](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/AI/dfm-mathematical-translation.md)
 ---
 
