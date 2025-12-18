@@ -6,9 +6,6 @@ This section describes how **Dynamic Field Model (DFM)–style models** can be u
 
 The goal is not smarter AI in a human sense, but **safer, more coherent interaction** that preserves human agency.
 
-For readers interested in implementation, see “Translating the Dynamic Field Model into Mathematical Form” for a state-space / stability framing of these ideas.
-
-[Go here: dfm-mathematical-translation](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/AI/dfm-mathematical-translation.md)
 ---
 
 ## The Core Problem
@@ -165,6 +162,10 @@ AI is treated as a **field-sensitive interface**, not an identity mirror.
 * The result is AI that supports coherence **without replacing agency**
 
 ---
+
+For readers interested in implementation, see “Translating the Dynamic Field Model into Mathematical Form” for a state-space / stability framing of these ideas.
+
+[Go here: dfm-mathematical-translation](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/AI/dfm-mathematical-translation.md)
 
 This section is intended as a **design orientation**, not an implementation guide.
 If it does not help preserve clarity and autonomy, it should be discarded.
