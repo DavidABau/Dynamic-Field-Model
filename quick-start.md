@@ -106,7 +106,7 @@ The DFM always prioritises **your ability to choose** over reaching resolution.
 
 ## Where This Is Useful
 
-People commonly use the DFM to:
+People may commonly use the DFM to:
 
 * make sense of difficult conversations
 * avoid escalation loops
