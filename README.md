@@ -158,6 +158,8 @@ Human cognition is dynamic.
 This model provides a way to see those dynamics clearly.
 
 [Start Here: Quick Start Guide](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/quick-start.md)
+
 [Core Model Overview](https://github.com/DavidABau/Dynamic-Field-Model/tree/main/core-models)
+
 [AI as Adaptive Interaction Scaffold](https://github.com/DavidABau/Dynamic-Field-Model/tree/main/AI)
 
