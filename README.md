@@ -17,9 +17,9 @@ DFM provides:
 
 The goal is a clear, adaptable, non-ideological model that helps individuals and systems understand how cognitive patterns form, evolve, and interact.
 
-For a better understanding of Meaning, Myth, and Metaphysics, see ajacent project, (MMM) a framework for understanding how meaning systems shape human experience.
+Linked to this project for an optional understanding of Meaning, Myth, and Metaphysics, see the ajacent project, (MMM) a framework for understanding how meaning systems shape human experience.
 
-[click here](https://github.com/DavidABau/Meaning-Myth-and-Metaphysics)
+[click here to visit MMM](https://github.com/DavidABau/Meaning-Myth-and-Metaphysics)
 
 ---
 
