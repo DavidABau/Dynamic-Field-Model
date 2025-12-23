@@ -23,7 +23,8 @@ Linked to this project for an optional understanding of Meaning, Myth, and Metap
 
 ---
 
-Intent and Use
+## Intent and Use
+
 The Dynamic Field Model (DFM) is provided as a descriptive and navigational framework intended to support clarity, agency, and coherent decision-making. It is designed to help individuals and systems understand patterns of stress, misalignment, and restoration without diagnosing, prescribing, or directing behaviour. DFM is not a clinical tool, an ideological system, or a substitute for professional judgment.
 
 The model may be adapted, referenced, or built upon for educational, reflective, or design purposes, provided it is not presented as authoritative truth, diagnostic instrument, or means of coercion or control. Uses that reduce agency, bypass responsibility, or position the framework as a belief system rather than a navigational aid fall outside its intended purpose.
