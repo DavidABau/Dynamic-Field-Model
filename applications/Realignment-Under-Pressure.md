@@ -1,4 +1,5 @@
-DFM Interface: A Human Guide to Realignment Under Pressure
+#DFM Interface: A Human Guide to Realignment Under Pressure
+
 What This Is
 
 This section translates the Dynamic Field Model (DFM) into a human-usable interface for moments of conflict, misalignment, or relational drift.
