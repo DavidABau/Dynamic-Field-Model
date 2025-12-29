@@ -171,7 +171,7 @@ DFM is:
 Clarifying these misconceptions helps ensure the model is understood and used
 as intended.
 
-
+---
 
 ## ✨ Overview
 Human cognition is dynamic.  
@@ -183,3 +183,17 @@ This model provides a way to see those dynamics clearly.
 
 [AI as Adaptive Interaction Scaffold](https://github.com/DavidABau/Dynamic-Field-Model/tree/main/AI)
 
+---
+
+## Relationship to Cognitive Field Architecture (CFA)
+
+Dynamic-Field-Model (DFM) describes behavioural and systemic dynamics—how human cognition interacts with environments, systems, and social fields.
+It builds on the Cognitive Field Architecture, which describes the internal geometry of awareness itself (perceptual, emotional, rational planes).
+
+CFA → How cognition is structured and moves internally
+
+DFM → How that cognition participates in broader dynamic fields
+
+[Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
+
+---
