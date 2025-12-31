@@ -117,18 +117,6 @@ Guides and applied frameworks covering:
 
 ---
 
-## 📁 Repository Structure
-
-core-models/
-diagrams/
-typology-bridges/
-applications/
-glossary/
-
-Each directory contains detailed explanations, diagrams, and supporting materials.
-
----
-
 ## 🎯 Purpose of This Project
 The Dynamic Field Model is intended as:
 - a **public-facing, open, safe** cognitive framework  
