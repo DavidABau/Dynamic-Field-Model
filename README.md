@@ -2,6 +2,10 @@ For a broader understanding of how this work fits into the wider framework of re
 
 ---
 
+#### The Dynamic Field Model exists to help people understand how humans, systems, technology, and meaning interact in amplified environments — especially in an AI-saturated world. It isn’t a manifesto or a prediction. It’s a grounding tool: a way to see where coherence strengthens or collapses, and how humans can participate more responsibly in complex systems.
+
+---
+
 # Dynamic Field Model
 
 A multidimensional systems framework for understanding human cognition, motivation, and behaviour.
