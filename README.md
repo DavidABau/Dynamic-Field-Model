@@ -207,3 +207,9 @@ Instead of treating AI as a person, an enemy, or a saviour, we frame it as a ste
 “If you’re curious about AI and Human relational dynamics → O&A [Go here](https://davidabau.github.io/Oscillation-Amplification/)
 
 ---
+
+## For a broader understanding of how this work fits into the wider framework of related projects,
+
+see the Orientation to the Human-AI-Coherence-Corpus (HACC) [Go here](https://davidabau.github.io/Human-AI-Coherence-Corpus/)
+
+---
