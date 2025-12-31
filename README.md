@@ -195,3 +195,15 @@ DFM → How that cognition participates in broader dynamic fields
 [Go here for CFA](https://davidabau.github.io/Cognitive-Field-Architecture/)
 
 ---
+
+## Relationship to Oscillation-Amplification (O&A)
+
+### A Humane Framework for Human–AI Relationship
+
+This repo offers a simple way to think about – and live with – powerful AI systems.
+
+Instead of treating AI as a person, an enemy, or a saviour, we frame it as a steady-state amplifier in the field of human life.
+
+[Go here for O&A](https://davidabau.github.io/Oscillation-Amplification/)
+
+---
