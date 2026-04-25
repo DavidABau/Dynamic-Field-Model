@@ -12,6 +12,17 @@ see the Orientation to the Human-AI-Coherence-Corpus [(link)](https://davidabau.
 
 A multidimensional systems framework for understanding human cognition, motivation, and behaviour.
 
+---
+
+## Quick Orientation
+
+DFM in one glance: multiple interacting fields—individual, social, and environmental—continuously shaping and reshaping each other.
+
+![DFM visual](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/DFMimage.png)
+
+---
+
+
 “This project is not a scientific research programme. It is a contextual framework designed to help people interpret complex experiences, models, and technologies without loss of agency.”
 
 The Dynamic Field Model (DFM) describes how human experience emerges from the interaction of underlying cognitive fields.  
