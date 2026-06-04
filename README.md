@@ -14,14 +14,6 @@ A multidimensional systems framework for understanding human cognition, motivati
 
 ---
 
-## Quick Orientation
-
-DFM in one glance: multiple interacting fields—individual, social, and environmental—continuously shaping and reshaping each other.
-
-![DFM visual](https://github.com/DavidABau/Dynamic-Field-Model/blob/main/DFMimage.png)
-
----
-
 
 “This project is not a scientific research programme. It is a contextual framework designed to help people interpret complex experiences, models, and technologies without loss of agency.”
 
